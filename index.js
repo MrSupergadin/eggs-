@@ -9,7 +9,7 @@ bot.on('ready', () => {
     console.log("We are grilled vegetables is now online ! [Current version: 1.0.0] "); 
 });
 
-bot.login('NDU1MDUzMTM5Nzg4MzAwMjg5.Df7uKg.SB2b3jA7fa10v9IS8NdPG0AUt-M');
+client.login(process.env.TOKEN);
 
 // Function
 
