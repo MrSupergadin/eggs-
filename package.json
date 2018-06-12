@@ -1,0 +1,19 @@
+ lines (18 sloc)  373 Bytes
+{
+  "name": "We are grilled vegetables",
+  "version": "1.0.0",
+  "description": "by Gadin",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "googleapis": "^31.0.0",
+    "opusscript": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "start": "node index.js"
+  },
+  "author": "MrSupergadin",
+  "license": "ISC"
+}
